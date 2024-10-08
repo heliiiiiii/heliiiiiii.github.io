@@ -10,12 +10,12 @@
 
 body {
     background-color: #FE4AA0;
-    font-family: 'levavot', Helvetica, sans-serif !important;
-    font-weight: normal;
-    font-style: normal;
 }
 
 h1 {
+    font-family: 'levavot', Helvetica, sans-serif !important;
+    font-weight: normal;
+    font-style: normal;
     text-align: center;
     color: #FED1F3;
     margin: 0;
