@@ -2,8 +2,7 @@
 @font-face {
     font-family: 'levavot';
     src: url('levavot-webfont.woff2') format('woff2'),
-         url('levavot-webfont.woff') format('woff'),
-         url('levavot.TTF') format('truetype');
+         url('levavot-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
