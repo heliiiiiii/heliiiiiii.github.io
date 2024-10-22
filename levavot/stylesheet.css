@@ -5,4 +5,5 @@
          url('/levavot-webfont.woff') format('woff'),
          url('/LEVAVOT.TTF') format('truetype');
     font-display: swap;
+    font-weight: 400;
 }
